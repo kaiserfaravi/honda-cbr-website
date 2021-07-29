@@ -1,0 +1,23 @@
+.header-bg{
+    background-color: #264653;
+}
+.button-color{
+    background-color: #e76f51;
+    border: none;
+   
+} 
+.img-gray {
+    filter: grayscale(100%);
+  }
+.heading-color-clients  .fa-star{
+    color: #e76f51;
+} 
+.circle{
+    width: 300px;
+    clip-path: circle();
+    display: flex;
+    justify-content: center;
+} 
+.heading-color{
+    color: #e76f51;
+}
